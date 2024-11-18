@@ -1,0 +1,11 @@
+{
+  "name": "freecodecamp-challenge",
+  "version": "1.0.0",
+  "description": "a challence from freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Code-Mole",
+  "license": "ISC"
+}
